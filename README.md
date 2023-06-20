@@ -1,6 +1,6 @@
 # Umun Page
 
-Ionic offers an effective method for mobile page navigation. However, its intuitiveness on the desktop platform is lacking. This library resolves this issue by facilitating page navigation on the desktop while preserving the standard Ionic navigation for mobile devices.
+Ionic offers an effective method for mobile page navigation. However, its intuitiveness on the desktop platform is lacking. This library resolves this issue by facilitating page navigation on the desktop, while preserving the standard Ionic navigation for mobile devices.
 
 ## Inspiration
 
